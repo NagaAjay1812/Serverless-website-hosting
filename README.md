@@ -93,6 +93,19 @@ If content is not cached, CloudFront fetches it securely from S3.
 
 ---
 
+## 📸 Screenshots
+
+### CloudFront Distribution
+![CloudFront](assets/cloudfront-distribution.png)
+
+### Route 53 Domain Mapping
+![Route 53](assets/route53-alias.png)
+
+### S3 Static Website Files
+![S3](assets/s3-bucket.png)
+
+---
+
 ## 👤 Author
 **Naga Ajay Ragyari**  
 Cloud & DevOps Engineer
